@@ -3,7 +3,7 @@ import Yulduz from "../Imgs/yulduz.jpg";
 export default function AboutMe() {
   return (
     <div>
-      <div className="bg-Collects-about" id="aboutme about">
+      <div className="bg-Collects-about" id="aboutme">
         <div className="container">
           <div>
             <h2 className="About-h1">About Me</h2>
